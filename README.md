@@ -1,7 +1,7 @@
 # Hi 👋, I'm Arun Prajapati
 A passionate frontend* developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-1&label=Profile%20views&color=0e75b6&style=flat" alt="arun-1" /> </p>
+![](https://komarev.com/ghpvc/?username=arun-1&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working on **Interview platform**
 
