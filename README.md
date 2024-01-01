@@ -1,6 +1,7 @@
 # Hi 👋, I'm Arun Prajapati
 
 💼 I'm a passionate frontend* developer
+
 🔭 Currently working on **Interview platform**
 
 ### 🌐 Connect with me:
@@ -17,13 +18,10 @@
 
 ---
 
-<details>
-  <summary>📊 GitHub Stats</summary>
-  ![](https://github-readme-stats-nine-eta-58.vercel.app/api?username=arun-1&hide=stars&show_icons=true&theme=react&hide_title=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true)<br/>
+### 📊 GitHub Stats</summary>
+![](https://github-readme-stats-nine-eta-58.vercel.app/api?username=arun-1&hide=stars&show_icons=true&theme=react&hide_title=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arun-1&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats-nine-eta-58.vercel.app/api/top-langs/?username=arun-1&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-</details>
-
 <!--
 **arun-1/arun-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
