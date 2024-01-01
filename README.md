@@ -4,8 +4,6 @@
 
 🔭 Currently working on **Interview platform**
 
-📫 Reach me at **arunsolanki.ap@gmail.com**
-
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://twitter.com/arunprajapati_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunprajapati_1" height="30" width="40" /></a>
