@@ -1,11 +1,10 @@
 # Hi 👋, I'm Arun Prajapati
 
-🙏 Welcome
-A passionate frontend* developer
+💼 I'm a passionate frontend* developer
 
-🔭 I’m currently working on **Interview platform**
+🔭 Currently working on **Interview platform**
 
-📫 How to reach me **arunsolanki.ap@gmail.com**
+📫 Reach me on **arunsolanki.ap@gmail.com**
 
 ## 🌐 Connect with me:
 <p align="left">
