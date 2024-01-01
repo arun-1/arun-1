@@ -21,7 +21,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-eta-58.vercel.app/api?username=arun-1&hide=stars&show_icons=true&theme=react&hide_title=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arun-1&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-1&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-nine-eta-58.vercel.app/api/top-langs/?username=arun-1&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
 **arun-1/arun-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
